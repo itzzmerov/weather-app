@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Simple Weather App</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="icon" type="image/x-icon" href="favicon.ico">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" crossorigin="anonymous"></script>
+    <
+</head>
+
+<body>
+    <div class="weather-container">
+        <img src="icon.png" class="weather_logo" alt="weather">
+        <h1 class="heading">Simple Weather App</h1>
+        <div class="weather-box">
+            <i class="fa-regular fa-clouds"></i>
+            <h2 id="temperature"></h2>
+            <p id="condition"></p>
+            <p id="location"></p>
+        </div>
+        <br />
+        <input type="text" placeholder="Enter a location" id="search-bar">
+        <br />
+        <button id="search-btn">Search</button>
+    </div>
+    <script src="app.js"></script>
+</body>
+
+</html>
