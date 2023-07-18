@@ -2,6 +2,6 @@
 
 > This is a simple weather app that was developed using HTML, CSS, JavaScript, and OpenWeather API.
 > 
-> Website Link: *[https://algo-filipino.github.io/rovic-weather-app/](https://algo-filipino.github.io/rovic-weather-app/)*
+> Website Link: *[https://rosciditech-digidev.github.io/weather-app/](https://rosciditech-digidev.github.io/weather-app/)*
 
-[![Weather App](Home.PNG)](https://algo-filipino.github.io/rovic-weather-app/) 
+[![Weather App](Home.PNG)](https://rosciditech-digidev.github.io/weather-app/) 
